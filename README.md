@@ -1,5 +1,7 @@
 # About Me
-Hi, my name is Jack, I have been working in the IT sector for the last 13 years, click here to view my Linked In Profile. I’ve created this page to document my journey in developing other skills which may help me within my job role as an Systems Analyst
+Hi, my name is Jack, I have been working in the IT sector for the last 13 years, <a href="www.linkedin.com/in/jackmccullagh">click here</a> to view my Linked In Profile.
+<br>
+I’ve created this page to document my journey in developing other skills which may help me within my job role as an Systems Analyst
 
 ## My Goals
 I want to learn what is involved in setting up and deploying Docker Containers, using API.
