@@ -1,13 +1,24 @@
 # About Me
-Hi, my name is Jack, I have been working in the IT sector for the last 13 years, <a href="www.linkedin.com/in/jackmccullagh">click here</a> to view my Linked In Profile.
+Hi, my name is Jack, I've been working in the IT sector for the last 13 years, <a href="www.linkedin.com/in/jackmccullagh">click here</a> to view my Linked In Profile.
+
+I've created this GitHub Rep Repository as part of ongoing lifelong learning journey in learning new technologies. I will be documenting my journey within my <a href="https://github.com/jmccu2010/jmccu2010/wiki">GIthub Wiki page</a> as I document the steps I used to meet My Goals.
+
 <br>
-<pr>
-I’ve created this page to document my journey in developing other skills which may help me within my job role as an Systems Analyst
+<br>
+<br>
 
 ## My Goals
-I want to learn what is involved in setting up and deploying Docker Containers, using API.
 
-Test
+* Setting up a Virtual Machine
+* learn how to set up and configure Docker
+    * Deploy a HTML static webpage
+* Learn how to deploy a website using GitHub Build Process
+* Learn how to deploy a website that has a backend database.
+* Learn how to set up a API that can connect to a database
+
+
+     
+
 
 
 <!--
